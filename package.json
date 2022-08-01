@@ -1,0 +1,29 @@
+{
+  "name": "fyyur",
+  "version": "0.0.1",
+  "description": "Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues.",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py",
+    "test": "echo 'No test command specified'"
+  },
+  "keywords": [
+    "Fyyur",
+    "Project",
+    "FSND",
+    "Nano-degree"
+  ],
+  "author": "Ron Mercier",  
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RonMercier/fyyur_artist-booking-website"
+  },
+  "bugs": {
+    "url": "https://github.com/RonMercier/fyyur_artist-booking-website/issues"
+  },
+  "homepage": "https://github.com/RonMercier/fyyur_artist-booking-website#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
