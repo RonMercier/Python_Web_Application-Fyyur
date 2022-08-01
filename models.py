@@ -77,3 +77,4 @@ class Artist(db.Model):
 
 db.create_all()
 
+
