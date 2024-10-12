@@ -19,8 +19,9 @@ The tech stack includes the following:
  * **virtualenv** is the tool used to create isolated Python environments
  * **PostgreSQL** is the relational database of choice
  * **SQLAlchemy ORM** is the library used to communicate with the relational database
- * **Python3** and **Flask** as the server language and server framework used
+ * **Python3** and **Flask** is the server language and server framework used
  * **Flask-Migrate** is used for creating and running schema migrations
+   
 You can download and install the dependencies mentioned above using `pip` as:
 ```
 pip install virtualenv
@@ -29,7 +30,6 @@ pip install postgres
 pip install Flask
 pip install Flask-Migrate
 ```
-> **Note** - If we do not mention the specific version of a package, then the default latest stable package will be installed. 
 
 ### 2. Frontend Dependencies
 You must have the **HTML**, **CSS**, and **Javascript** with [Bootstrap 3](https://getbootstrap.com/docs/3.4/customize/) for our website's frontend. Bootstrap can only be installed by Node Package Manager (NPM). Therefore, if not already, download and install the [Node.js](https://nodejs.org/en/download/). Windows users must run the executable as an Administrator, and restart the computer after installation. After successfully installing the Node, verify the installation as shown below.
