@@ -136,7 +136,7 @@ Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or
 
 You can view a live version of the web application at www.fyyur.live
 
-This project provisions a 2GB Ubuntu Linode that utilizes the popular web server Nginx and a 4GB Linode PostgreSQL Managed Database.  The two resources below can assist you with setting this up:
+This project provisions a 2GB Ubuntu server that utilizes the popular web server Nginx and a 4GB PostgreSQL Managed Database.  The two resources below can assist you with setting this up:
 
 - [How to Install and Use NGINX on Ubuntu 20.04](https://www.linode.com/docs/guides/how-to-install-and-use-nginx-on-ubuntu-20-04/)
 - [Create a managed database](https://techdocs.akamai.com/cloud-computing/docs/create-a-managed-database)
